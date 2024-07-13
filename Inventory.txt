@@ -1,0 +1,20 @@
+1, Smartphone, 599,8
+2, Laptop, 999,0
+3, Tablet, 299,13
+4, Headphones, 49, 20
+5, Smartwatch, 199,1
+6, Camera, 399,5
+7, Speaker, 149, 25
+8, Printer, 299,1
+9, External Hard Drive, 129,4
+10, Monitor, 199,8
+11, Keyboard, 29, 30
+12, Mouse, 19, 40
+13, Gaming Console, 399, 7
+14, Wireless Router, 79, 22
+15, Fitness Tracker, 79, 15
+16, USB Flash Drive, 14, 50
+17, Bluetooth Earbuds, 99, 10
+18, Printer Ink Cartridge, 49, 12
+19, External SSD, 179, 8
+20, Graphics Card, 499, 4

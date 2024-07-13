@@ -1,0 +1,9 @@
+Name,Contact no, E-mail,Product,Product id,Quantity,Price,Total Bill, Date
+
+Bhosale,10,Bhosale0206@gmail.com, Monitor,10,2,398,Thu Apr 25 14:03:18 2024
+dfad,5442,dws, External Hard Drive,9,5, 129,645,Thu Apr 25 14:06:42 2024
+Shubham,85231465978,shubham02@gmail.com, Printer,8,5, 299,1495,Thu Apr 25 17:21:52 2024
+Shubham1,5647893215,shubh@gmail.com, External Hard Drive,9,5, 129,645,Thu Apr 25 19:21:03 2024
+Jayshree,5632147895,jayshree0206@gmail.com, Tablet,3,2,598,Tue May 28 18:03:16 2024
+Snehal maam,7531596542,snehalmaam52@gmail.com, Camera,6,5, 399,1995,Tue May 28 18:20:18 2024
+vaibhav,9512587463,vaibhavtango92@gmail.com, External Hard Drive,9,4, 129,516,Tue May 28 18:21:25 2024
